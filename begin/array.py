@@ -11,7 +11,7 @@
 # reverse listni elementlarini teskari tardibda qilib beradi
 # add listga elementni qoshadi
 
-
+# test
 # a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 9, 9]
 # SET VA DICT
 
